@@ -1,0 +1,22 @@
+.photo{
+  display: flex;
+justify-content: center;
+width: 20%;
+position: relative;
+left: 40%;
+margin-top: 5%;
+}
+.name{
+    color: red;
+    position: relative;
+    left: 42%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.adr{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  position: relative;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
